@@ -1,0 +1,22 @@
+/* .gradienteViola {
+  background: #5d17eb;
+  /* background: linear-gradient(
+    180deg,
+    rgb(82, 39, 255) 0%,
+    rgb(88, 1, 114) 50%,
+    rgb(26, 26, 26) 100%
+  ); */
+/* }
+.foto-responsive {
+  width: 100%;
+} */
+/* @media screen and (min-widht: 768px) {
+  .foto-responsive {
+    width: 25%;
+  }
+} */
+
+.social:hover {
+  scale: 1.1;
+  transition: 0.5s;
+}
